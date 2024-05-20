@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="addNote">Add Note</string>
+    <string name="headingTitleHint">Enter The Title</string>
+    <string name="noteInputHint">Enter The Note Here</string>
+    <string name="add_button_description">Button</string>
+    <string name="UpdateNoteTitle">Update Note</string>
+    <string name="UpdateheadingTitleHint">Update The Title</string>
+    <string name="UpdateheadingContentHint">Update The Content</string>
+</resources>
